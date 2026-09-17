@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:letsbuildwithmayank@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=letsbuildwithmayank@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 👋 About Me
@@ -13,6 +13,7 @@
 - 💻 Web & Android developer who builds complete, working products
 - 🤖 I combine AI/ML with web and mobile apps to solve real business problems
 - 💼 Open for freelance projects
+- 📫 Reach me: letsbuildwithmayank@gmail.com
 
 ## 🚀 What I Can Build
 - 🌐 **Websites:** business sites, landing pages, portfolios
