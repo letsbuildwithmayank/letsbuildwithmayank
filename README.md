@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Build%20With%20Mayank&fontSize=42&fontAlignY=35" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+in+AI+%26+ML;Web+%26+Android+Developer;Building+AI-powered+Apps+%26+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Web+%26+Android+Developer;Building+AI-powered+Apps+%26+Tools" />
 </p>
 
 <p align="center">
