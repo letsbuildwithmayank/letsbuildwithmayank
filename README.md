@@ -26,17 +26,6 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,python,tensorflow,sklearn,opencv,androidstudio,firebase,mongodb,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,python,tensorflow,sklearn,opencv,androidstudio,firebase,mongodb,git,vercel" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letsbuildwithmayank&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=letsbuildwithmayank&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=letsbuildwithmayank&color=blueviolet" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
